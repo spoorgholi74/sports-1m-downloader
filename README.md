@@ -1,2 +1,6 @@
 # sports-1m-downloader
-Sports-1M dataset video downloader
+This is a repository to download the videos of the Sports-1M dataset.
+
+
+
+## How to?

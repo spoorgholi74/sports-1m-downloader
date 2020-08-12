@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# Videos
+videos/
+
+# Command file
+command_list.txt
+
+# Class names
+
+class_names.txt
 # Distribution / packaging
 .Python
 build/
